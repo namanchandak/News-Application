@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Brian Fung",
+      "title": "Elon Musk says he will step down as Twitter CEO — once he finds a replacement - CNN",
+      "description": "Twitter owner Elon Musk confirmed Tuesday evening he will step down as the company's CEO, but only when he identifies a successor, directly addressing for the first time a Twitter poll he created this week in which millions of users voted for his ouster.",
+      "url": "https://www.cnn.com/2022/12/20/tech/elon-musk-twitter-ceo/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221220181529-musk-world-cup-final-1218.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-21T10:21:00Z",
+      "content": "Twitter owner Elon Musk confirmed Tuesday evening he will step down as the companys CEO, but only when he identifies a successor, directly addressing for the first time a Twitter poll he created this… [+2551 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nick Paton Walsh, Sarah Dean",
+      "title": "Russia's militarization of the Arctic shows no sign of slowing down - CNN",
+      "description": "Russia has continued expanding its military bases in the Arctic region despite significant losses in its war on Ukraine, according to a new series of satellite images obtained by CNN.",
+      "url": "https://www.cnn.com/2022/12/21/europe/russia-arctic-military-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221220112153-10-tiksi-slider.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-21T06:40:00Z",
+      "content": "Russia has continued expanding its military bases in the Arctic region despite significant losses in its war on Ukraine, according to a new series of satellite images obtained by CNN. \r\nNATO Secretar… [+6298 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nouran Salahieh, Cheri Mossburg",
+      "title": "After convicting Harvey Weinstein of rape, a Los Angeles jury deadlocks on factors that could have increased his sentence - CNN",
+      "description": "After convicting former film producer Harvey Weinstein of rape and sexual assault, a Los Angeles jury could not reach a unanimous verdict Tuesday on alleged aggravating factors that could have increased his sentence.",
+      "url": "https://www.cnn.com/2022/12/20/us/harvey-weinstein-los-angeles-trial-sentencing-tuesday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221201133219-weinstein-court-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-21T02:52:00Z",
+      "content": "After convicting former film producer Harvey Weinstein of rape and sexual assault, a Los Angeles jury could not reach a unanimous verdict Tuesday on alleged aggravating factors that could have increa… [+6321 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Katelyn Polantz, Pamela Brown, Jamie Gangel, Jeremy Herb",
+      "title": "Exclusive: Trump's former White House ethics lawyer told Cassidy Hutchinson to give misleading testimony to January 6 committee, sources say - CNN",
+      "description": "The January 6 committee made a startling allegation on Monday, claiming it had evidence that a Trump-backed attorney urged a key witness to mislead the committee about details they recalled.",
+      "url": "https://www.cnn.com/2022/12/20/politics/trump-ethics-lawyer-passantino-cassidy-hutchinson-misleading-testimony-jan-6/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116154118-cassidy-hutchinson-jan-6-hearing-0628.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-21T00:34:00Z",
+      "content": "The January 6 committee made a startling allegation on Monday, claiming it had evidence that a Trump-backed attorney urged a key witness to mislead the committee about details they recalled. \r\nThough… [+7798 chars]"
+    }
+  ]
+}
